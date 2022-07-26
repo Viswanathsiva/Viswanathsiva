@@ -1,3 +1,5 @@
+    <img style="border-radius:10px;width: 100%;height: 300px;" alt="Coding" width="400" src="https://th.bing.com/th/id/R.9b4346575c4467ae163a1ba5e64c8a70?rik=e6SBXCb8dEZV%2fQ&riu=http%3a%2f%2fwww.ignitivetech.com%2fimages%2fsoftware-development.gif&ehk=oqLzdGQ05LLTrrqjIiX9Y3Bp9LJcIjwYvmkbZkqAQHU%3d&risl=&pid=ImgRaw&r=0">
+
 <h1 align="center">Hi 👋, I'm Viswanathsiva V</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img style="border-radius:10px;" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

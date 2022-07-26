@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/viswanath_siva" target="blank"><img src="https://img.shields.io/twitter/follow/viswanath_siva?logo=twitter&style=for-the-badge" alt="viswanath_siva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/viswanath_siva_" target="blank"><img src="https://img.shields.io/twitter/follow/viswanath_siva_?logo=twitter&style=for-the-badge" alt="viswanath_siva_" /></a> </p>
 
 - 🌱 I’m currently learning **Spring, MongoDB**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/viswanath_siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viswanath_siva" height="30" width="40" /></a>
+<a href="https://twitter.com/viswanath_siva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viswanath_siva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viswanathsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswanathsiva" height="30" width="40" /></a>
 <a href="https://instagram.com/viswanath_siva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viswanath_siva_" height="30" width="40" /></a>
 </p>

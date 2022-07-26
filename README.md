@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Viswanathsiva V</h1>
+<h1 align="center">Hey 👋, I'm Viswanathsiva V</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img style="border-radius:10px;" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswanathsiva&label=Profile%20views&color=0e75b6&style=flat" alt="viswanathsiva" /> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"> </p>

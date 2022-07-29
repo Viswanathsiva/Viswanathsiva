@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/viswanath_siva_" target="_blank"><img src="https://img.shields.io/twitter/follow/viswanath_siva_?logo=twitter&style=for-the-badge" alt="viswanath_siva_" /></a>  </p>
 
-- 🌱 I’m currently learning **Spring, MongoDB**
+- 🌱 I’m currently learning **Spring Boot, MongoDB**
 
 - 📫 How to reach me **viswanath.v.siva@gmail.com**
 

@@ -1,4 +1,4 @@
-<img style="border-radius:10px;" align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1j8DSKRvw876CBf-WxqWbfyQhQrgcWQ5w/view?usp=sharing">
+<img style="border-radius:10px;width: 100%;height: 250px;" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1j8DSKRvw876CBf-WxqWbfyQhQrgcWQ5w">
 
 
 <h1 align="center">Hey 👋, I'm Viswanathsiva V</h1>

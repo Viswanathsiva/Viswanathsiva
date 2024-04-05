@@ -1,6 +1,3 @@
-<img style="border-radius:10px;width: 100%;height: 250px;" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1j8DSKRvw876CBf-WxqWbfyQhQrgcWQ5w">
-
-
 <h1 align="center">Hey 👋, I'm Viswanathsiva V</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img style="border-radius:10px;" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -31,5 +28,3 @@
 <br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viswanathsiva&show_icons=true&locale=en" alt="viswanathsiva" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswanathsiva&" alt="viswanathsiva" /></p>
